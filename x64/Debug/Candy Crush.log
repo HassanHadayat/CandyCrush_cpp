@@ -1,0 +1,4 @@
+﻿  Candy Crush.cpp
+C:\Users\Dell\Desktop\Sfml Projects\Candy Crush\Candy Crush.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Dell\Desktop\Sfml Projects\Candy Crush\Candy Crush.cpp(795): warning C4715: 'TL_Crusher': not all control paths return a value
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'
