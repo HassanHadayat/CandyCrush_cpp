@@ -1,3 +1,8 @@
 # CandyCrush_cpp
 
-FAST-NUCES Lahore Programing Fundamental semester 1 project. This is my first project as a Game Developer.
+This is my first project as a Game Developer.
+
+// ************************ READ THIS BEFORE IMPLEMENTING ************************************//
+
+This game has include sfml files. So check how to integrate sfml library to your project. 
+check this link for implementation https://www.youtube.com/watch?v=axIgxBQVBg0
