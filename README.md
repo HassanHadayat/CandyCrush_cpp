@@ -4,7 +4,8 @@ It is a Candy Crush Game clone I made for Programming Fundamental course semeste
 
 * Game Screenshot
   
-![candy-crush-screenshot](https://github.com/HassanHadayat/cpp-candy-crush/assets/68451645/68a40f58-a91e-44aa-9655-8e77bbced3e8)
+![Screenshot_CandyCrush](https://github.com/HassanHadayat/cpp-candy-crush/assets/68451645/1efa17e5-e6b1-4c84-b420-12fb2954acb4)
+
 
 // ************************ READ THIS BEFORE IMPLEMENTING ************************************//
 
